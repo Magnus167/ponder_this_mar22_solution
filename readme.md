@@ -7,6 +7,7 @@ example call:
 
 `python solver.py <num_digits> <reduce_set>`
 
-num_digits : for the number of digits in each prime
-reduce_set : passing any character as an arg here will remove any primes/words that have duplicate digits/characters.
+`num_digits` : for the number of digits in each prime
+
+`reduce_set` : passing any character as an arg here will remove any primes/words that have duplicate digits/characters.
 
