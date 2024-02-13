@@ -11,7 +11,7 @@ Here I post solutions to the IBM Ponder This monthly challenges (the ones I solv
 ## Index
 
 - [March 2022](2022-03/solutions/README.md)
-- [February 2023](2023-02/solutions/README.md)
+- [February 2023](2024-02/solutions/README.md)
 
 
 ## Copyright/License
