@@ -56,10 +56,6 @@ def get_combinations(dice_faces: List[Tuple[int, int]]) -> List[List[int]]:
     return _get_combos_cache(dices_str)
 
 
-def get_count_combinations(dices: List[List[int]]) -> int:
-    return len(list(get_combinations(dices)))
-
-
 def throw(dices: List[Tuple[int, int]]) -> int:
     return [random.randint(dice[0], dice[1]) for dice in dices]
 
